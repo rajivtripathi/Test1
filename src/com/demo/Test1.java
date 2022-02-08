@@ -6,7 +6,7 @@ public class Test1 {
 		// TODO Auto-generated method stub
 		
 		System.out.println(" this is 1st line");
-		System.out.println(" this is 2nd line");
+		System.out.println(" this is 2nd line but added something");
 		System.out.println(" added to master branch");
 		System.out.println(" added line 4 in master");
 		
